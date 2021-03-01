@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "simplex-noise": "^2.4.0",
-    "three": "^0.118.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@types/three": "^0.103.2",
